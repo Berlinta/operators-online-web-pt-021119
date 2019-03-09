@@ -4,10 +4,10 @@ def unsafe?(answer)
     true
   elsif answer.between(40, 60)
     false
-  # answer >= 60 ? true : false
+  end
 end
 
-
+ # answer >= 60 ? true : false
 def not_safe?(speed)
 	
 end
